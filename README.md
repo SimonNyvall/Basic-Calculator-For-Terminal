@@ -1,4 +1,4 @@
-# Basic-Calculator-For-Turminal
+# Basic-Calculator-For-Turminal [![Codacy Security Scan](https://github.com/SimonNyvall/Basic-Calculator-For-Turminal/actions/workflows/codacy.yml/badge.svg)](https://github.com/SimonNyvall/Basic-Calculator-For-Turminal/actions/workflows/codacy.yml)
 
 A very basic calculator for the turminal that is using the bc ( basic calculator ) in the /bin directory.
 
